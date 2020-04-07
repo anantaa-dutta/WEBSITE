@@ -1,0 +1,51 @@
+h1
+{
+    color: beige;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+body
+{
+    background-color: darkred;
+}
+.imgCenter
+{
+    display: block;
+    margin:auto;
+}
+
+.center {
+  margin: auto;
+  width: 70%;
+
+  padding: 5%;
+}
+.sectionDark
+{
+    background-color: #ffff00;
+    padding: 3%;
+    margin: auto;
+}
+.fa-facebook-square
+{
+    color: #0000ff;
+}
+.fa-instagram
+{
+    color: floralwhite;
+}
+.fa-linkedin
+{
+    color: #0066ff;
+}
+.fab
+{
+    margin:1.5%;
+}
+.fa-envelope
+{
+    color: floralwhite;
+    margin:1.5%;
+}
